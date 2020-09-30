@@ -1,6 +1,6 @@
 # Problem Statement
 
-We are given a large list of integers and we need to sort them into ascending order
+Given a large list of integers, sort the list into ascending order
 
 input->
 size of array(0 to 10,000)
