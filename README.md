@@ -27,3 +27,8 @@ Leave it blank, for now
 
 A short description about rules for getting T-shirts and other swags(Leave it blank, for now)
 
+# Getting Started
+
+Contains step-by-step guide for contributing into this repository
+
+### If you had fun, consider to give a star ⭐ to this repository
